@@ -1,6 +1,6 @@
 - 👋 hi myself shashank
 - 👀 I’m currently interested in research work in artificial intelligence
-- 🌱 I’m currently learning bayesian statistics, deep learning, reinforcement learning
+- 🌱 I’m currently learning deep learning, reinforcement learning
 - 💞️ I’m looking forward to collaborate on research projects
 - 📫 This is my twitter feel free to reach out @shasnks
 
